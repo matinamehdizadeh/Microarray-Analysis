@@ -1,4 +1,4 @@
-# microarray-analysis
+# Microarray Analysis
 
 
 The purpose of this project is the initial experience in bioinformatics data analysis. The dataset used in this project is Microarray data related to blood cancer (leukemia) which can be found in 
